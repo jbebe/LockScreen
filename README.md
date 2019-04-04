@@ -11,7 +11,7 @@
 * npm install at both places
 * `node ./server.js`
 * `node ./client.js <public-ip>:80`
-* Open <public-ip> on your smart phone which supports websocket
+* Open `<public-ip>` on your smart phone which supports websocket
 * Press the button
 
 ## Issues
