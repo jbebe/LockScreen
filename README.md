@@ -16,6 +16,6 @@
 
 ## Issues
 
-* **lock-your-windows** is a very complicated package that needs rebuilding and node-gyp so I saved a little time for you and compiled both x86 and x64 binaries.
+* **lock-your-windows** is a very complicated package that needs rebuilding and node-gyp so I saved a little time for you and compiled both x86 and x64 binaries. The x86 target is the npm repo that the author attached and this git repo contains the x64 equivalent.
 * In case you're still having problems with it, feel free to suffer the same way I did. 
-* client cannot reconnect so you better keep the server alive :) 
+* client.js cannot reconnect so you better keep the server alive :) 
